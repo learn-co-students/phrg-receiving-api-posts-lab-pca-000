@@ -21,3 +21,4 @@ The solution for the previous lab has been included for you.
    the product after successfully creating it.
 3. Display the product details of the newly created product on the `new` page without refreshing or redirecting.
 4. Make sure those tests pass!
+<p data-visibility='hidden'>PHRG Receiving API POSTs Lab</p>
